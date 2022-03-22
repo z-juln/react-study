@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "use-react",
+    "min-react"
+  ],
+  "version": "independent"
+}
